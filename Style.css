@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    font-family: 'OpenSans SemiCondensed';
+}
+.header  {
+    background-color: rgb(99, 66, 109);
+    padding: 30px;
+    text-align: center;
+}
+
+.link {
+    color: rgb(235, 229, 229);
+    margin: 10px;
+}
+.img {
+    background-color: rgb(114, 114, 114);
+    padding: 10px;
+    
+}
+h2 {
+    border-left: 10px solid rgb(99, 66, 109);
+    padding-left: 10px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: rgb(114, 114, 114);
+    padding: 10px;
+    color: rgb(235, 229, 229);
+}
